@@ -1,0 +1,118 @@
+
+- corr mean flux cstar
+
+- racc script ok? shift du illu? = nO ; Racc 2 N by 2 N ?? - prob racc scripts476, match pas ok - Not ok 344 TN
+
+- sigma clip dev, error, poids bin? smoothing courbe finale phase
+
+- quand pas prob match voir les comp star, mean etc  /SNR
+
+- fourier series
+
+- redre LC + voir RMS
+
+- Prot, peranso, max soft, jean soft
+
+- old ast data
+
+- attestation secr
+
+- TP var star + art hea
+
+- racc data = doit ltc + error    
+ + trend??   phot fov images?
+
+- 20 + 24 2017? phot done 
+- 1207 31 + 89 phot done 
+- 1213 32000 phot done -
+ 
+--- fev ---
+
+- phaeaton - 20 24
+- 31 - 89 period MPB
+- fnrs?
+- pres + rapport climat !
+- train leiden mars ??
+- set pc
+- max ! vectors
+- data phaeton moss
+- florence ?
+- etoile var mar
+
+----------------------------------------------
+------------- pas urgent ---------------------
+- data et astdiffFlux etc dans concatPhot
+
+- FWHM -> ap?
+
+- brol1 -> ltc directement
+
+- shift fp fit
+
+- plot fct ( seq, phase, with info, JD err )
+
+- revoir binning avec racc data
+
+- revoir syst nom, filtre
+
+- std ylim pour final LC coll
+
+- files with badID
+
+- sun and earth vectors
+
+- log comp stars
+
+- raw file, mark removed data
+
+- champ old scheila
+
+- Climat
+
+----------------------------------------------
+----------------------------------------------
+
+- racc syst folders
+
+- files with sep night with correections in graphPhot : mag val ?
+
+- juli new n end night?
+
+- weighted av, pas ok ?
+
+- funct in rt files
+
+- error ? + errmag
+
+- couverture phase LC 31 - voir si toutes les données
+
+- voir chgmt phase scheila et themis
+
+- (324) Bamberga
+
+- rep max
+
+- LT correction jpl horizon
+
+- imp graphes  : Title name ast, sub title time span + teles, Period, y label Filtre, legend imp dates  - T0 phase
+
+- bin par temps,  5 mins
+
+- 24 themis 20171110 meridian flip
+
+-24 + 20 TS = raccPhot, raccPhot with good std + ap 2
+
+- NO WCS 00024 - 20170920
+
+- see mag var, amp
+
+- phase old scheila
+
+- field phaeton
+
+- revoir 596 data cut !!!!  + phase angle effects? shift en pixel
+
+- use racc data pour comp ID  !  voir quand plusieurs nuits
+
+- Minor Planet Bulletin
+

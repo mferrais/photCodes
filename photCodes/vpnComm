@@ -1,0 +1,10 @@
+/usr/local/pulse/PulseClient.sh -h vpn.gw.ulg.ac.be -u f046184 -r ULg -U https://vpn.gw.ulg.ac.be/trappistsud
+/usr/local/pulse/PulseClient.sh -h vpn.gw.ulg.ac.be -u f046184 -r ULg -U https://vpn.gw.ulg.ac.be/trappistnord
+pw = Ztat6592
+
+rdesktop -u trappist -g 1280x800 -a 16 172.16.0.18    (chimay)          documents
+rdesktop -u trappist -g 1280x800 -a 16 172.16.0.34    (westmalle)       trappist
+rdesktop -u trappist -g 1280x800 -a 16 139.165.20.98  (orval)           datatrappistftp
+rdesktop -u trappist -g 1280x800 -a 16 139.165.20.30  (orval2)          datatrappistftp
+
+
