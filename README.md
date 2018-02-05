@@ -1,2 +1,2 @@
 # photCodes
-code to analyse photomotry data of asteroids
+code to analyse photometry data of asteroids
